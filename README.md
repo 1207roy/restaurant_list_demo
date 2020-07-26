@@ -1,7 +1,5 @@
 # flutter_restaurant_list_demo
 
-    # flutter_movies_booking_app
-
     The project was created with an intention to demo of a responsive UI for mobile and web in Flutter.
 
     Restaurant json data is added manually in model class.
