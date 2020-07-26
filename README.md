@@ -4,10 +4,10 @@
 
     Restaurant json data is added manually in model class.
 
-    <a href="https://github.com/1207roy/restaurant_list_demo/raw/master/demo/restaurant_list_demo.apk" download>Click to Download apk</a>
+<a href="https://github.com/1207roy/restaurant_list_demo/raw/master/demo/restaurant_list_demo.apk" download>Click to Download apk</a>
 
-    ## Screenshots
-    <p float="left">
-    <img src="https://github.com/1207roy/restaurant_list_demo/blob/master/images/mobile.gif" width="810">
-    <img src="https://github.com/1207roy/restaurant_list_demo/blob/master/images/web.gif" width="810">
-    </p>
+## Screenshots
+<p float="left">
+<img src="https://github.com/1207roy/restaurant_list_demo/blob/master/images/mobile.gif" width="810">
+<img src="https://github.com/1207roy/restaurant_list_demo/blob/master/images/web.gif" width="810">
+</p>
