@@ -8,6 +8,8 @@
 
 ## Screenshots
 <p float="left">
-<img src="https://github.com/1207roy/restaurant_list_demo/blob/master/images/mobile.gif" width="810">
+<h1> Flutter Web</h1>
 <img src="https://github.com/1207roy/restaurant_list_demo/blob/master/images/web.gif" width="810">
+<h1> Flutter Mobile</h1>
+<img src="https://github.com/1207roy/restaurant_list_demo/blob/master/images/mobile.gif" width="810">
 </p>
